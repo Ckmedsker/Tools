@@ -1,5 +1,5 @@
 # This program is used to generator all possible combinations of numbers up to a certain amount
-OUT = ""
+OUT = "out.txt"
 if OUT == "":
     print("Please specify an output file!")
     exit()
