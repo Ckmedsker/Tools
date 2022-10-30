@@ -3,17 +3,19 @@ import pyautogui
 from pynput import keyboard
 from time import sleep
 from pygame import mixer
+import os
 
 # Start X, Start Y, End X, End Y
-location = r"C:\Users\Camer\Desktop\SDEVDegree\Intro to Software Development\Module1\Programming Assignment\Module2"
+location = r"C:\Users\Camer\Desktop\SDEVDegree\Intro to Software Development\Module8"
 SS = [0, 0, 1600, 860]
 again = ""
 sound = "Gb2.mp3"
 mixer.init()
 
 
-print("Hit h to initialize!")
-name = str(input("Enter the image name:\n"))
+os.system('cls' if os.name == 'nt' else 'clear')
+name = input("Enter the image name:\n")
+print("Hit h to screenshot!")
 
 
 def quit_program():
