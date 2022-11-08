@@ -1,8 +1,8 @@
 # This script is used to append various items to the end of every line in a file
 # Most likely used for creating custom wordlists
 # Specific below the input file and output file (they can be the same but it is not recommended)
-FILE1 = ""
-OUT = "" 
+FILE1 = fr""
+OUT = fr"" 
 if FILE1 == "" or OUT == "":
     print("Please specify the correct files.")
     exit()
