@@ -19,20 +19,19 @@ def quit_program():
     exit()
 
 
-def on_start():
+def on_start(name):
     screenshot = pyautogui.screenshot(region=(SS[0], SS[1], SS[2], SS[3]))
     screenshot.save(f"{location}\{name}.png")
     mixer.music.load(sound)
     mixer.music.play()
-    sleep(1)
-    exit()
+    sleep(2)
 
-os.system('cls' if os.name == 'nt' else 'clear')
-name = input("Enter the image name:\n")
-on_start()
+for numb in range(1, 21):
+    on_start(numb)
+    print(numb)
 
 
-with keyboard.GlobalHotKeys({
-        '<ctrl>+c': quit_program,
-        'h': on_start}) as h:
-    h.join()
+# with keyboard.GlobalHotKeys({
+#         '<ctrl>+c': quit_program,
+#         'h': on_start}) as h:
+#     h.join()

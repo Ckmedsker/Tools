@@ -2,8 +2,8 @@
 # This script does not delete the existing text in the output file, but appends it
 # Specify below the first and second input files, and an output file
 FILE1 = "in.txt"
-FILE2 = "out.txt"
-OUT = "out2.txt"
+FILE2 = "in2.txt"
+OUT = "out.txt"
 first_run = True
 if FILE1 == "" or FILE2 == "" or OUT == "":
     print("Please specify the correct files.")
@@ -21,4 +21,4 @@ with open(OUT, "a") as out:
                 else:
                     out.write("\n")
                 for sline in slines:
-                    out.write(f"{fline}{sline}")
+                    out.write(f"{fline} {sline}")
