@@ -1,0 +1,340 @@
+Activator Rail
+Air
+Allow and Deny
+Amethyst Cluster
+An Ant
+Ancient Debris
+Andesite
+Anvil
+Azalea
+Bamboo
+Bamboo Mosaic
+Banner
+Barrel
+Barrier
+Basalt
+Beacon
+Bed
+Bedrock
+Beehive
+Beetroot Seeds
+Bell
+Big Dripleaf
+Big Sign
+Blackstone
+Blast Furnace
+Block of Amethyst
+Block of Bamboo
+Block of Coal
+Block of Copper
+Block of Diamond
+Block of Emerald
+Block of Gold
+Block of Iron
+Block of Lapis Lazuli
+Block of Netherite
+Block of Quartz
+Block of Raw Copper
+Block of Raw Gold
+Block of Raw Iron
+Block of Redstone
+Blue Ice
+Bone Block
+Bookshelf
+Border
+Box of Infinite Books
+Brewing Stand
+Bricks
+Bubble Column
+Budding Amethyst
+Button
+Cactus
+Cake
+Calcite
+Calibrated Sculk Sensor
+Campfire
+Candle
+Carpet
+Carrot
+Cartography Table
+Cauldron
+Chain
+Chalkboard
+Cheese
+Chest
+Chiseled Bookshelf
+Chiseled Deepslate
+Chorus Flower
+Chorus Plant (block)
+Clay
+Clay Pot
+Client request placeholder block
+Coal Ore
+Coarse Dirt
+Cobbled Deepslate
+Cobblestone
+Cobweb
+Cocoa Beans
+Colored Torch
+Command Block
+Composter
+Compound Creator
+Concrete
+Concrete Powder
+Conduit
+Copper Ore
+Copper Sink
+Copper Spleaves
+Coral
+Coral Block
+Coral Fan
+Crafting Table
+Crying Obsidian
+Cursor
+Daylight Detector
+Dead Bush
+Decorated Pot
+Deepslate
+Deepslate Bricks
+Deepslate Tiles
+Detector Rail
+Diamond Ore
+Diorite
+Dirt
+Dirt Path
+Dispenser
+Door
+Dragon Egg
+Dried Kelp Block
+Dripstone Block
+Dropper
+Element
+Element Constructor
+Emerald Ore
+Enchanting Table
+End Gateway (block)
+End Portal (block)
+End Portal Frame
+End Rod
+End Stone
+End Stone Bricks
+Ender Chest
+Etho Slab
+Farmland
+Fence
+Fence Gate
+Fire
+Fletching Table
+Flower
+Flower Pot
+Fluid
+Foundation block
+Froglight
+Frogspawn
+Frosted Ice
+Fungus
+Funky Portal
+Furnace
+Gear
+Gilded Blackstone
+Glass
+Glass Pane
+Glazed Terracotta
+Glow Berries
+Glow Lichen
+Glowing Obsidian
+Glowstone
+Gold Ore
+Golden Chest
+Granite
+Grass
+Grass Block
+Grass carried
+Gravel
+Green Shrub
+Grindstone
+Hanging Roots
+Hardened Glass
+Hardened Glass Pane
+Hay Bale
+Head
+Heat Block
+Home Block
+Honey Block
+Honeycomb Block
+Hopper
+How did we get here? (block)
+Ice
+Infested Block
+Info update
+Information block
+Information Sign
+Invisible Bedrock
+Iron Bars
+Iron Ore
+Item Frame
+Jack o'Lantern
+Jigsaw Block
+Jukebox
+Kelp
+Lab Table
+Ladder
+Lantern
+Lapis Lazuli Ore
+Lava
+Lava Spawner
+Leaves
+Leaves carried
+Lectern
+Leftover
+Lever
+Light
+Light Block
+Lightning Rod
+Lily Pad
+Locked chest
+Lodestone
+Log
+Loom
+Magma Block
+Mangrove Roots
+Material Reducer
+Melon
+Melon Seeds
+Mod ore
+Monster Spawner
+Moss Block
+Moss Carpet
+Mossy Cobblestone
+Mud
+Mud Bricks
+Muddy Mangrove Roots
+Mushroom
+Mushroom Block
+Mycelium
+Nether Bricks
+Nether Gold Ore
+Nether Portal (block)
+Nether Quartz Ore
+Nether Reactor Core
+Nether Sprouts
+Nether Wart
+Nether Wart Block
+Netherrack
+Note Block
+Number Block
+Nylium
+Observer
+Obsidian
+Ore
+Other Portal (block)
+Packed Ice
+Packed Mud
+Petrified Oak Slab
+Pickaxe Block
+Pink Petals
+Piston
+Pitcher Plant
+Pitcher Pod
+Place Block
+Planks
+Podzol
+Pointed Dripstone
+Polished Blackstone
+Polished Blackstone Bricks
+Polished Deepslate
+Potato
+Powder Snow
+Powered Rail
+Pressure Plate
+Prismarine
+Pumpkin
+Pumpkin Seeds
+Purpur Block
+Rail
+Redstone Comparator
+Redstone Dust
+Redstone Lamp
+Redstone Ore
+Redstone Repeater
+Redstone Torch
+Reinforced Deepslate
+Reserved6
+Respawn Anchor
+Ring Block
+Rooted Dirt
+Roots
+Sand
+Sandstone
+Sapling
+Scaffolding
+Sculk
+Sculk Catalyst
+Sculk Sensor
+Sculk Shrieker
+Sculk Vein
+Sea Lantern
+Sea Pickle
+Seagrass
+Seamless Stone Slab
+Shroomlight
+Shrub
+Shulker Box
+Sign
+Slab
+Slime Block
+Small Dripleaf
+Smithing Table
+Smoker
+Smooth Quartz Block
+Smooth Stone
+Sniffer Egg
+Snow
+Snow Block
+Solid block
+Soul Sand
+Soul Soil
+Spawn Block
+Sponge
+Spore Blossom
+Stairs
+Stone
+Stone Bricks
+Stonecutter
+Stonecutter (old)
+String
+Structure Air
+Structure Block
+Structure Void
+Sugar Cane
+Suspicious Gravel
+Suspicious Sand
+Swaggiest stairs ever
+Sweet Berries
+Target
+Teleport Block
+Terracotta
+Tinted Glass
+TNT
+Torch
+Torch (Burnt-out)
+Torchflower Seeds
+Trapdoor
+Trapped Chest
+Tripwire Hook
+Tuff
+Turtle Egg
+Twisting Vines
+Underwater TNT
+Underwater Torch
+Unknown
+USB Charger Block
+Vines
+Wall
+Water
+Water Spawner
+Weeping Vines
+Weird Piston
+Wheat Seeds
+Wood
+Wool

@@ -13,8 +13,6 @@ sound = "Gb2.mp3"
 mixer.init()
 
 
-
-
 def quit_program():
     exit()
 
@@ -25,6 +23,7 @@ def on_start(name):
     mixer.music.load(sound)
     mixer.music.play()
     sleep(2)
+
 
 for numb in range(1, 21):
     on_start(numb)
